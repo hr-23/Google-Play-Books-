@@ -1,0 +1,37 @@
+Google Play Books is an online store where you can buy
+and enjoy e-books, audiobooks, and comics. You can
+read or listen to your favorite titles on your phone,
+tablet, or computer, and everything syncs seamlessly
+across your devices. With customizable reading settings
+and cloud storage, it’s easy to access your library
+anytime, anywhere.
+
+The US e-book market is projected to be valued at USD 17.20 billion in
+2024, with an expected increase to USD 21.73 billion by 2029 yet
+Google Play Books only holds approximately 1% to 2% of the market
+
+Key Features 
+1. Seamless Cross-Platform Sync - Syncs reading progress, notes, and bookmarks across Android, iOS,
+and web platforms, allowing users to pick up where they left off on any device.
+2. Family Library Sharing - Allows sharing of purchased books with up to five family members, making
+it cost-effective for households.
+3. Extensive Customization Options - Offers extensive customization for font size, type, and
+background color, providing a personalized reading experience.
+4. Offline Access - Enables users to download and read books offline, ensuring access to content
+without an internet connection.
+5. Integration with Google Ecosystem - Integrates seamlessly with other Google services like Google
+Assistant for hands-free controls and personalized recommendations, enhancing overall usability.
+
+Google Play Books appears to be underperforming in
+several areas. In contrast, Amazon, despite generating
+relatively insignificant revenue from Kindle, remains
+the dominant player in the e-book market. Amazon,
+which began as an online bookstore, has continued to
+invest in its e-book software even as it expanded into
+other sectors. This commitment has allowed Amazon to
+maintain the largest customer base in the e-book
+market.
+Let's analyze Google Play Books using Jakob
+Nielsen's 10 Usability Heuristics to identify what
+they are doing well and where they could improve
+in terms of user experience
