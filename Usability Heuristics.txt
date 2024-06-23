@@ -1,0 +1,6 @@
+Usabilty
+Heuristics
+Usability heuristics are guidelines that help designers assess the user-friendliness of a product's
+interface. These principles act as rules of thumb to ensure interfaces are clear, intuitive, and minimize
+user errors. Adhering to these heuristics results in better user experiences for both novice and
+experienced users.
