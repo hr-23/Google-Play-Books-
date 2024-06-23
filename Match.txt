@@ -1,0 +1,20 @@
+Match Between
+the System and the Real World
+Implementations
+The app's name and every major section clearly indicate that it deals with books, ensuring users
+recognize its purpose.
+It features a simple page-turning animation that mimics the experience of turning pages in a
+physical book.
+The app allows users to organize their books on virtual shelves, similar to arranging books on
+real-life bookshelves.
+The night light option provides a reading hue that is easier on the eyes in the dark, similar to
+using a reading lamp at night.
+The Shop section categorizes best sellers, new releases, and books on sale, replicating the
+organization of a physical bookstore.
+Violations
+The Series tab is unclear, as it does not specify whether the books belong to an author-specific
+series, a character-specific series, or a Google Play curated series, unlike in a bookstore where
+series information is clearly displayed.
+The absence of page numbers on the book's main page is a significant oversight, as this is a
+fundamental element of physical books; displaying the page number only in the progress bar
+does not align with traditional book navigation.
