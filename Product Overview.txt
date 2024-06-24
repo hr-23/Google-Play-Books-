@@ -13,18 +13,18 @@ Google Play Books only holds approximately 1% to 2% of the market
 Key Features 
 1. Seamless Cross-Platform Sync - Syncs reading progress, notes, and bookmarks across Android, iOS,
 and web platforms, allowing users to pick up where they left off on any device.
-2. Family Library Sharing - Allows sharing of purchased books with up to five family members, making
+2. Family Library Sharing - Allows the sharing of purchased books with up to five family members, making
 it cost-effective for households.
-3. Extensive Customization Options - Offers extensive customization for font size, type, and
-background color, providing a personalized reading experience.
+3. Extensive Customization Options - Offers extensive font size, type, and
+background color customization, providing a personalized reading experience.
 4. Offline Access - Enables users to download and read books offline, ensuring access to content
 without an internet connection.
 5. Integration with Google Ecosystem - Integrates seamlessly with other Google services like Google
 Assistant for hands-free controls and personalized recommendations, enhancing overall usability.
 
 Google Play Books appears to be underperforming in
-several areas. In contrast, Amazon, despite generating
-relatively insignificant revenue from Kindle, remains
+several areas. In contrast, despite generating
+relatively insignificant revenue from Kindle, Amazon remains
 the dominant player in the e-book market. Amazon,
 which began as an online bookstore, has continued to
 invest in its e-book software even as it expanded into
