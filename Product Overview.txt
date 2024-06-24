@@ -31,7 +31,3 @@ invest in its e-book software even as it expanded into
 other sectors. This commitment has allowed Amazon to
 maintain the largest customer base in the e-book
 market.
-Let's analyze Google Play Books using Jakob
-Nielsen's 10 Usability Heuristics to identify what
-they are doing well and where they could improve
-in terms of user experience
