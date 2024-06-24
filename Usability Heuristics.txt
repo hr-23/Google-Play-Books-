@@ -1,8 +1,8 @@
 Usabilty
 Heuristics
 Usability heuristics are guidelines that help designers assess the user-friendliness of a product's
-interface. These principles act as rules of thumb to ensure interfaces are clear, intuitive, and minimize
-user errors. Adhering to these heuristics results in better user experiences for both novice and
+interface. These principles act as rules of thumb to ensure interfaces are clear, and intuitive, and minimize
+user errors. Adhering to these heuristics results in better user experiences for novice and
 experienced users.
 
 Visibility
@@ -11,7 +11,7 @@ of System Status
 Implementations
 The app displays the completion status of each eBook.
 It indicates the download status of eBooks.
-eBooks are categorized in the shop and on the home page by genres, top selling, new
+eBooks are categorized in the shop and on the home page by genres, top-selling, new
 releases, and deals.
 The price of books is clearly shown in the wishlist and shop, indicating if they need to be
 purchased.
@@ -21,8 +21,8 @@ The currently playing audiobook is highlighted on the main page.
 Violations
 The "Now Reading" ebook is not clearly indicated like it is shown for audiobooks, causing
 users to assume the topmost or leftmost book is the most recent read.
-The absence of a progress bar in library page, with only a percentage displayed, makes
-the UI less intuitive and harder for users to understand their reading progress.
+The absence of a progress bar on the library page, with only a percentage displayed, makes
+the UI is less intuitive and harder for users to understand their reading progress.
 The number of purchased books in a series is shown, but the images do not clearly
 indicate which books have been bought, causing users to click each one to identify
 purchased titles, creating confusion about their collection.
