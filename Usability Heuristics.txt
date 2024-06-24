@@ -19,6 +19,7 @@ Inside eBooks, the app shows page numbers in progress bar, pages left in the cha
 and completion percentage.
 The currently playing audiobook is highlighted on the main page.
 Violations
+
 The "Now Reading" ebook is not clearly indicated like it is shown for audiobooks, causing
 users to assume the topmost or leftmost book is the most recent read.
 The absence of a progress bar on the library page, with only a percentage displayed, makes
