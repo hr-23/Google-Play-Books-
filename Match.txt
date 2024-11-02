@@ -18,3 +18,4 @@ the series information is clearly displayed.
 The absence of page numbers on the book's main page is a significant oversight, as this is a
 fundamental element of physical books; displaying the page number only in the progress bar
 does not align with traditional book navigation.
+- alignemnt requirements..
